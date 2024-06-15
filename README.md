@@ -1,2 +1,2 @@
-# Proejcts-Architectures
-Adding all my project architecture diagrams here
+# Projects-Architectures
+Adding all my project architecture diagrams here. All are drafts.
